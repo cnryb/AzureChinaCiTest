@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureChinaCiTest", "AzureCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJobs", "WebJobs\WebJobs.csproj", "{7C3F5FA4-C64C-4896-B459-0C175AA8BBF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebJob1", "WebJob1\WebJob1.csproj", "{29DA9714-F503-45A6-866D-6BDB71A514FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{7C3F5FA4-C64C-4896-B459-0C175AA8BBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7C3F5FA4-C64C-4896-B459-0C175AA8BBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7C3F5FA4-C64C-4896-B459-0C175AA8BBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29DA9714-F503-45A6-866D-6BDB71A514FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DA9714-F503-45A6-866D-6BDB71A514FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DA9714-F503-45A6-866D-6BDB71A514FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DA9714-F503-45A6-866D-6BDB71A514FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
